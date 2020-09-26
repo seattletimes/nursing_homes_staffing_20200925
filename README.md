@@ -1,6 +1,6 @@
 ![The Seattle Times](https://github.com/seattletimes/nursing_homes_staffing_20200925/blob/master/assets/ST_Logo.png)
 
-This repository contains the data reporting behind [Nursing homes in Washington state struggled with adequate staffing for years. Then coronavirus struck](https://www.seattletimes.com/seattle-news/times-watchdog/nursing-homes-in-washington-state-struggled-with-adequate-staffing-for-years-then-coronavirus-struck/), a Seattle Times story by [Mary Hudetz](https://twitter.com/marymhudetz), [Asia Fields](https://twitter.com/asiakmfields) and [Manuel Villa](https://twitter.com/mvilla1859).
+This repository contains the data reporting behind [Nursing homes in Washington state struggled with adequate staffing for years. Then coronavirus struck](https://www.seattletimes.com/seattle-news/times-watchdog/nursing-homes-in-washington-state-struggled-with-adequate-staffing-for-years-then-coronavirus-struck/), a Seattle Times story.
 
 
 # Summary
