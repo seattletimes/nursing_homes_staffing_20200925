@@ -1,3 +1,5 @@
+![The Seattle Times](https://github.com/seattletimes/nursing_homes_staffing_20200925/tree/master/assets/ST_Logo.png)
+
 # Summary
 
 As the coronavirus known as SARS-CoV-2 started spreading over the United States at the beginning of 2020, it became clear that some of the most vulnerable places to the virus were long-term care facilities. These are establishments whose role is to take care of elderly people who are not capable of fully looking after themselves. Washington state became the early epicenter of the pandemic in the United States, and long-term care facilities across the state witnessed a sudden spike in COVID-19 cases and deaths. 
@@ -133,21 +135,9 @@ Now that we have produced a series of structured datasets, we put them together 
 
 ## Federal data
 Nursing Home Compare datasets
-- [CMS - Nursing home compare datasets (Zipped CSVs)](https://data.medicare.gov/data/nursing-home-compare)
-- [CMS - Nursing home compare data archive (Zipped CSVs)](https://data.medicare.gov/data/archives/nursing-home-compare)
-- [CMS - Nursing home providers (Socrata)](https://data.medicare.gov/Nursing-Home-Compare/Provider-Info/4pq5-n9py)
-- [CMS - Nursing home survey summary (Socrata)](https://data.medicare.gov/Nursing-Home-Compare/Survey-Summary/tbry-pc2d)
 - [CMS - Nursing home health deficiencies (Socrata)](https://data.medicare.gov/Nursing-Home-Compare/Health-Deficiencies/r5ix-sfxw/)
-- [CMS - Nursing home health deficiencies with full statements - Updated in April 2020 (Zipped XLSXs)](http://downloads.cms.gov/files/Full-Statement-of-Deficiencies-April-2020.zip)
-- [CMS - Nursing home staffing (Socrata)](https://data.medicare.gov/Nursing-Home-Compare/Staffing/aizv-8ir6)
-- [CMS - Nursing home penalties (Socrata)](https://data.medicare.gov/Nursing-Home-Compare/Penalties/g6vv-u9sr)
-- [CMS - Nursing home ownership (Socrata)](https://data.medicare.gov/Nursing-Home-Compare/Ownership/y2hd-n93e)
-- [CMS - Quality, Certification and Oversight Reports (QCOR)](https://qcor.cms.gov/main.jsp)
+- [CMS - Nursing home health deficiencies with full statements - Updated in August 2020 (Zipped XLSXs)](http://downloads.cms.gov/files/Full-Statement-of-Deficiencies-August-2020.zip)
 - [CMS - F-Tag Crosswalk (XLSX)](https://www.cms.gov/Medicare/Provider-Enrollment-and-Certification/GuidanceforLawsAndRegulations/Downloads/F-Tag-Crosswalk.xlsx)
-
-The following are apparently full of holes and rather useless, but puting them here just to be aware of their existance, and uselessness:
-- [CMS - Nursing Home COVID-19 Dataset](https://data.cms.gov/Special-Programs-Initiatives-COVID-19-Nursing-Home/COVID-19-Nursing-Home-Dataset/s2uc-8wxp)
-- [CMS - Nursing Home COVID-19 Data Dictionary](https://data.cms.gov/Special-Programs-Initiatives-COVID-19-Nursing-Home/COVID-19-Nursing-Home-Data-Dictionary/6bgw-jr58)
 
 
 ## Federal documentation
@@ -156,33 +146,4 @@ The following are apparently full of holes and rather useless, but puting them h
 - [CMS - Design for Nursing Home Compare Five-Star Quality Rating System: Technical Users’ Guide (PDF)](https://www.cms.gov/Medicare/Provider-Enrollment-and-Certification/CertificationandComplianc/downloads/usersguide.pdf)
 
 ## State data
-There are literally thousands of PDF reports available at the website of the [Aging and Long-Term Support Administration](https://www.dshs.wa.gov/altsa), an office inside the Washington State Department of Social and Health Services.
-
-The ALTSA site provides a tool that generates a CSV file for each facility type. These CSV files contain metadata about the reports, including the URLs where they can be downloaded from. The CSV files can be generated here:
-
-- [DSHS - Nursing Home Facilities Locator](https://fortress.wa.gov/dshs/adsaapps/lookup/NHPubLookup.aspx)
-- [DSHS - Assisted Living Facilities Locator](https://fortress.wa.gov/dshs/adsaapps/lookup/bhpublookup.aspx)
-- [DSHS - Adult Family Home Locator](https://fortress.wa.gov/dshs/adsaapps/lookup/afhpublookup.aspx)
-- [DSHS - COVID -19 Facility Survey User Guide (PDF)](https://fortress.wa.gov/dshs/adsaapps/lookup/FacilityStatus/Covid19FacilitySurveyUserGuide.pdf)
-- [DOH - COVID-19 Long-term Care Report (PDF)](https://www.doh.wa.gov/Portals/1/Documents/1600/coronavirus/data-tables/Weekly-COVID-19-Long-Term-Care-Report.pdf)
-- [KC - COVID-19 data dashboards](https://www.kingcounty.gov/depts/health/covid-19/data.aspx)
-- [KC - Long term care data dashboard](https://www.kingcounty.gov/depts/health/covid-19/data/LTCF.aspx)
-- [KC - List of Skilled Nursing and Assisted Living facilities with at least one documented case](https://www.kingcounty.gov/depts/health/covid-19/data/~/media/depts/health/communicable-diseases/documents/C19/LTCF-list.ashx)
-
-## Non-official data
- - [The COVID Tracking Project](https://covidtracking.com/data)
-
-
-# References
-- [Reuters - Special Report: Pandemic exposes systemic staffing problems at U.S. nursing homes](https://www.reuters.com/article/us-health-coronavirus-nursinghomes-speci/special-report-pandemic-exposes-systemic-staffing-problems-at-u-s-nursing-homes-idUSKBN23H1L9)
-- [ProPublica - Nursing Homes Tool](https://www.propublica.org/article/how-safe-are-nursing-homes-near-me-this-tool-will-help-you-find-out)
-- [Texas Observer - Texas Nursing Home Residents Were Already at Risk. Then COVID-19 Hit](https://www.texasobserver.org/texas-nursing-home-residents-were-already-at-risk-then-covid-19-hit/)
-- [GAO - Infection Control Deficiencies Were Widespread and Persistent in Nursing Homes Prior to COVID-19 Pandemic](https://www.gao.gov/assets/710/707069.pdf)
-- [HHS - Life Care Center of Kirkland, Ruling No. 2020-3 (2020)](https://www.hhs.gov/about/agencies/dab/decisions/board-decisions/2020/board-rul-2020-3/index.html)
-- [Nurse Staffing and Coronavirus Infections in California Nursing Homes](https://journals.sagepub.com/doi/full/10.1177/1527154420938707)
-
-
-# Tasks / Tracking routes
-- How did those WAC regulations came to be and how they are enforced? Who were the legislatures/commities who redated them? Who lobbied for that system to be the way it is?
-
-# TODO
+There are literally thousands of PDF reports available at the [DSHS Nursing Home Facilities Locator](https://fortress.wa.gov/dshs/adsaapps/lookup/NHPubLookup.aspx). The tool generates a CSV file that contains metadata about the reports, including the URLs where they can be downloaded from. This is how we located and downloaded more than 1,000 enforcement letter reports.
