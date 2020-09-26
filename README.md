@@ -1,6 +1,6 @@
 ![The Seattle Times](https://github.com/seattletimes/nursing_homes_staffing_20200925/blob/master/assets/ST_Logo.png)
 
-This repository contains the data reporting behind [story name](), a Seattle Times story by [Mary Hudetz](https://twitter.com/marymhudetz), [Asia Fields](https://twitter.com/asiakmfields) and [Manuel Villa](https://twitter.com/mvilla1859).
+This repository contains the data reporting behind [Nursing homes in Washington state struggled with adequate staffing for years. Then coronavirus struck](https://www.seattletimes.com/seattle-news/times-watchdog/nursing-homes-in-washington-state-struggled-with-adequate-staffing-for-years-then-coronavirus-struck/), a Seattle Times story by [Mary Hudetz](https://twitter.com/marymhudetz), [Asia Fields](https://twitter.com/asiakmfields) and [Manuel Villa](https://twitter.com/mvilla1859).
 
 
 # Summary
@@ -35,9 +35,7 @@ The data contained in both sources are consistent with each other, but they have
 
 The compressed CSV files are published monthly and each one contains a history of deficiencies that goes back about three years. Each time, the data from the most recent month is added and the data from the oldest month is dropped, so there is a large overlap across each CSV file.
 
-Each of the CSV packages can be downloaded by writing the following generic URL in a browser (each package is roughly 500MB and will start downloading immediately after it is typed in the browser):
-
-http://downloads.cms.gov/files/Full-Statement-of-Deficiencies-Month-Year.zip
+Each of the CSV packages can be downloaded by writing the following generic URL in a browser (each package is roughly 500MB and will start downloading immediately after it is typed in the browser): downloads.cms.gov/files/Full-Statement-of-Deficiencies-MONTH-YEAR.zip
 
 For example, to obtain the package for August 2020, one would use this URL:
 
