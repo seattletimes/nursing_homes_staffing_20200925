@@ -1,4 +1,4 @@
-![The Seattle Times](https://github.com/seattletimes/nursing_homes_staffing_20200925/tree/master/assets/ST_Logo.png)
+![The Seattle Times](https://github.com/seattletimes/nursing_homes_staffing_20200925/blob/master/assets/ST_Logo.png)
 
 This repository contains the data reporting behind [story name](), a Seattle Times story by [Mary Hudetz](https://twitter.com/marymhudetz), [Asia Fields](https://twitter.com/asiakmfields) and [Manuel Villa](https://twitter.com/mvilla1859).
 
@@ -120,7 +120,7 @@ Here is a visualization of our findings by the talented [Emily Eng](https://twit
 
 
 
-![Deficiencies and Penalties](https://github.com/seattletimes/nursing_homes_staffing_20200925/tree/master/assets/nursing-home-penalties-P-c.png)
+![Deficiencies and Penalties](https://github.com/seattletimes/nursing_homes_staffing_20200925/blob/master/assets/nursing-home-penalties-P-c.png)
 
 
 
